@@ -24,7 +24,7 @@ HerculesNode Cosmos Bot ; Cosmos projelerinde çalıştırdığınız validatorl
 - Öncelikle Telegram botu ile etkileşime geçiniz.
 - Bot : https://web.telegram.org/k/#@HerculesNode_Bot
 
-1- Start Butonuna basınız ve ardından sol alt tarafta bulunan Menü tuşuna basarak destekleyen ağlarda validatör çalıştırıyorsanız /register_val butonuna basınız. İsterseniz manuel olarakta yazabilirsiniz. 
+1- Start Butonuna basınız ve ardından sol alt tarafta bulunan Menü tuşuna basın. Ardından `/register_val` butonuna basarak validatör ekleme işlemini gerçekleştirin. İsterseniz manuel olarakta yazabilirsiniz. 
 
 ![image](https://github.com/user-attachments/assets/8321eaf5-e380-4714-ae6b-d46569ba72df)
 
