@@ -37,7 +37,7 @@ HerculesNode Cosmos Bot allows you to monitor the validators you run on Cosmos p
 
 ![image](https://github.com/user-attachments/assets/a6cf5ec3-495a-4a57-9754-2305e01ba579)
 
-## 🟢 3 - Eklediğim validatör adreslerini nasıl görebilirim ?
+## 🟢 3 - How can I see the validator addresses I've added? ?
 
 #### 1- ress the /list button from the menu, and the validator addresses you have added will be displayed
 
