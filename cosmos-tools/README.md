@@ -17,7 +17,7 @@
 
 ## 🟢 Bu bot ne işe yarar ?
 
-HerculesNode Cosmos Bot ; Cosmos projelerinde çalıştırdığınız validatorlerin Telegram üzerinden anlık takibini yapmanızı sağlar. Bu sayede validatörünüzün durumunu istediğiniz yerden ister Pc , ister telefon üzerinden anlık olarak takip edebilir ve uyarı alabilirsiniz.
+HerculesNode Cosmos Bot ; Cosmos projelerinde çalıştırdığınız validatorlerin Telegram üzerinden anlık takibini yapmanızı sağlar. Bu sayede validatörünüzün durumunu istediğiniz yerden, ister Pc , ister telefon üzerinden anlık olarak takip edebilir ve uyarı alabilirsiniz.
 
 ## 🟢 1 - Validatör Nasıl eklenir ?
 
