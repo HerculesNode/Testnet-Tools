@@ -7,6 +7,8 @@
 
 - 0G Labs
 - Warden
+- Mantra
+- Cosmos
 - Empeiria
 - Initia
 - Nibiru
@@ -14,6 +16,10 @@
 - neutron
 - Elys
 - pryzm
+- Airchains
+- Fiamma
+- Hedge
+- Dym
 
 ## 🟢 What does this bot do?
 
