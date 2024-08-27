@@ -56,4 +56,11 @@ HerculesNode Cosmos Bot ; Cosmos projelerinde çalıştırdığınız validatorl
 
 ![image](https://github.com/user-attachments/assets/f17d51f4-ad74-4cc1-b18b-98f120e683c2)
 
+## 🟢 5 - Uyarı sistemi ?
+
+#### 1- sistem size problem olduğunda anında mesaj gönderecektir. 
+
+![image](https://github.com/user-attachments/assets/5dc253a5-4c34-441d-8785-24d8ff5f702a)
+
+
 
