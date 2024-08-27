@@ -56,4 +56,10 @@ HerculesNode Cosmos Bot allows you to monitor the validators you run on Cosmos p
 
 ![image](https://github.com/user-attachments/assets/f17d51f4-ad74-4cc1-b18b-98f120e683c2)
 
+## 🟢 5 - Warning system?
+
+#### 1- the system will send you an instant message when there is a problem. 
+
+![image](https://github.com/user-attachments/assets/5dc253a5-4c34-441d-8785-24d8ff5f702a)
+
 
