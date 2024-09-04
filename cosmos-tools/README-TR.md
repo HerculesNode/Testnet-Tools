@@ -43,20 +43,27 @@ HerculesNode Cosmos Bot ; Cosmos projelerinde çalıştırdığınız validatorl
 
 ![image](https://github.com/user-attachments/assets/a6cf5ec3-495a-4a57-9754-2305e01ba579)
 
-## 🟢 3 - Eklediğim validatör adreslerini nasıl görebilirim ?
+## 🟢 3 - Uptime bilgileri nasıl görülür ?
+
+#### 1- Menü bölümünden /uptime butonuna basın yada manuel chat kısmına yazmanız yeterli. 
+
+![image](https://github.com/user-attachments/assets/8584e600-171d-4fa1-9846-486f6952bdb6)
+
+
+## 🟢 4 - Eklediğim validatör adreslerini nasıl görebilirim ?
 
 #### 1- Menü bölümünden /list butonuna basınız eklemiş olduğunuz validatör adresleri gelecektir.
 
 ![image](https://github.com/user-attachments/assets/108aec47-d8ff-4eae-bdbf-f2698ddc093d)
 
 
-## 🟢 4 - Validatör adresi Nasıl silinir ?
+## 🟢 5 - Validatör adresi Nasıl silinir ?
 
 #### 1- Menü bölümünden /delete_val butonuna basınız ve ardından silmek istediğiniz validatörü yazmanız yeterli.
 
 ![image](https://github.com/user-attachments/assets/f17d51f4-ad74-4cc1-b18b-98f120e683c2)
 
-## 🟢 5 - Uyarı sistemi ?
+## 🟢 6 - Uyarı sistemi ?
 
 #### 1- sistem size problem olduğunda anında mesaj gönderecektir. 
 
