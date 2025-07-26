@@ -65,4 +65,4 @@ while True:
         except Exception as e:
             print(f"❌ Hata oluştu ({user}): {e}")
 
-        time.sleep(5)
+        time.sleep(10)
