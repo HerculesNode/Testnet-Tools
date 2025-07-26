@@ -21,7 +21,7 @@ contract = w3.eth.contract(address=CONTRACT_ADDRESS, abi=ABI)
 
 # === Alıcı listesi ===
 user_ids = [
-    "omerbekta_s","herculesnode", "cembakan17", "mywsky", "SooNeR52", "zamazingog", "blastAway007",
+    "omerbekta_s","herculesnode", "cembakan17", "mywsky", "sooneraydin", "zamazingog", "blastAway007",
     "onchainshadowx", "auto_staking", "BrokexFi", "primus_labs", "fiamma_labs", "AquaFluxPro", "KaranG09",
     "H2TEarn", "Surchmann", "DvmOnChain", "Qwertik960", "dens_club", "mrkiel_web3", "andreadeanarif",
     "crypto_ecu", "kikifar884", "SirNicco", "0xrzalc", "MavinoFriday"
